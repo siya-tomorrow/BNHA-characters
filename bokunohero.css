@@ -1,0 +1,225 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color:black;
+    font-style:italic;
+}
+h2{
+    font-style: italic;
+}
+#heading {
+    color: forestgreen;
+}
+#heading1 {
+    color:red;
+}
+#heading2 {
+    color:blue;
+}
+#heading3 {
+    color:palevioletred;
+}
+#heading4 {
+    color:lightblue;
+}
+#heading5 {
+    color: yellow;
+}
+strong {
+    position:absolute;
+    top: 500px;
+    left: 500px;
+    font-size: xx-large;
+}
+#bakugo {
+    background-color:;
+    position:absolute;
+    top: 1010px;
+    
+    
+}
+#shoto {
+    background-color: gray;
+    position:absolute;
+    top: 1750px;
+}
+
+#ochaco {
+    background-color: gray;
+    position:absolute;
+    top: 2500px;
+}
+#tenya {
+    background-color: gray;
+    position:absolute;
+    top: 3250px;
+    
+}
+#all-might {
+    background-color: gray;
+    position:absolute;
+    top: 4010px;
+}
+.im {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+}
+
+.text-div{
+    background-color: gray;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+#mi{
+    position:absolute;
+    top: 300px;
+    left: 350px;
+    font-size: xx-large;
+}
+#mam{
+    position: fixed;
+    top: 190px;
+    left: 20px;
+    font-size: large;
+    
+}
+#mab{
+    position: fixed;
+    top: 220px;
+    left: 20px;
+    font-size: large;
+    
+}
+#mat{
+    position: fixed;
+    top:250px;
+    left: 20px;
+    font-size: large;
+    
+}
+#mao{
+    position: fixed;
+    top: 280px;
+    left: 20px;
+    font-size: large;
+    
+}
+#mati{
+    position: fixed;
+    top: 310px;
+    left: 20px;
+    font-size: large;
+    
+}
+#maal{
+    position: fixed;
+    top: 340px;
+    left: 20px;
+    font-size: large;
+    
+}
+#mamha{
+    position: fixed;
+    top: 370x;
+    left: 20px;
+    font-size: large;
+    
+}
+#mi-saya{
+    position: absolute;
+    top: 950px;
+    left: 450px;
+    font-size: large;
+}
+#mi-said{
+    position: absolute;
+    top: 1000px;
+    left: 700px;
+    font-size: large;
+}
+#bakugo-says{
+    position: absolute;
+    top: 1700px;
+    left: 450px;
+    font-size: large;
+}
+#bakugo-said{
+    position: absolute;
+    top: 1740px;
+    left: 740px;
+    font-size: large;
+}
+#shoto-says{
+    position: absolute;
+    top: 2455px;
+    left: 450px;
+    font-size: large;
+}
+#shoto-said{
+    position: absolute;
+    top: 2500px;
+    left: 700px;
+    font-size: large;
+}
+#ochaco-says{
+    position: absolute;
+    top: 3200px;
+    left: 450px;
+    font-size: large;
+}
+#ochaco-said{
+    position: absolute;
+    top: 3250px;
+    left: 700px;
+    font-size: large;
+}
+#tenya-says{
+    position: absolute;
+    top: 3950px;
+    left: 450px;
+    font-size: large;
+}
+#tenya-said{
+    position: absolute;
+    top: 4010px;
+    left: 660px;
+    font-size: large;
+}
+#all-might-says{
+    position: absolute;
+    top: 4800px;
+    left: 450px;
+    font-size: large;
+}
+#all-might-said{
+    position: absolute;
+    top: 4820px;
+    left: 700px;
+    font-size: large;
+}
+#all-might-says1{
+    position: absolute;
+    top: 4850px;
+    left: 450px;
+    font-size: large;
+}
+#all-might-said1{
+    position: absolute;
+    top: 4890px;
+    left: 700px;
+    font-size: large;
+}
+#more-links{
+    position: fixed;
+    left:0;
+    top: 150px;
+    font-size: 18.5px;
+}
+
